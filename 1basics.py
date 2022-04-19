@@ -13,11 +13,3 @@ brics.index = ["BR", "RU", "IN", "CH", "SA"]
 # Print out brics with new index values
 print(brics)
 
-# Import pandas as pd
-import pandas as pd
-
-# Import the cars.csv data: cars
-cars = pd.read_csv('car-sales.csv')
-
-# Print out cars
-print(cars)
